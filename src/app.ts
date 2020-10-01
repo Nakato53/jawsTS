@@ -1,7 +1,7 @@
 declare var require: any;
 
 require('./styles/main.css');
-const jaws = require('./__externals/jaws');
+const jaws = require('../libs/jaws');
 
 import Game from './game';
 import JAWS from './JAWS';

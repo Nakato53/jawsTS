@@ -4,7 +4,6 @@
   "description": "",
   "main": "webpack.config.js",
   "dependencies": {
-    "JawsJS": "git+https://github.com/ippa/jaws.git",
     "css-loader": "^4.3.0",
     "file-loader": "^6.1.0",
     "html-webpack-plugin": "^4.5.0",
